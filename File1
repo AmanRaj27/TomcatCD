@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone a repo') {
             steps {
-                git 'https://github.com/anujdevopslearn/MavenBuild.git'
+                git 'https://github.com/AmanRaj27/MavenBuild.git'
             }
         }
 
